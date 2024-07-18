@@ -1,24 +1,11 @@
-# iban-validator
+## iban-validator
 
-## Project setup
-```
-npm install
-```
+# Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Ce projet est une application web permettant de vérifier la validité d'un IBAN saisi par l'utilisateur. L'application est construite avec Vue.js.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Fonctionnalités
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Saisie d'un IBAN dans un champ d'entrée.
+- Validation instantanée de l'IBAN saisi.
+- Affichage d'un message indiquant si l'IBAN est valide ou non.
